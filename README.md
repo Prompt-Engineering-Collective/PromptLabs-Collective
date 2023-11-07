@@ -13,7 +13,7 @@ The Knowledge Base is our collective's brain trust, a growing repository of arti
 Your contributions drive the success of PromptLabs Collective. We welcome contributions of all forms, from project code to knowledge articles. To maintain a high standard, we ask contributors to follow our guidelines, which include adherence to coding standards, a clear pull request process, and a constructive feedback loop. Before you contribute, please read our detailed guidelines to ensure your contributions can be effectively incorporated into our projects.
 
 ## Join Us
-If you're as excited about the potential of AI and prompt engineering as we are, we invite you to join us through our website https://www.pecollective.com. By becoming a member of the Prompt Engineering Collective, you gain access to a network of peers, opportunities for collaboration, and the chance to contribute to cutting-edge projects. Take the first step towards joining us by reaching out or contributing to a project today.
+If you're as excited about the potential of AI and prompt engineering as we are, we invite you to join us through our [website](https://www.pecollective.com). By becoming a member of the Prompt Engineering Collective, you gain access to a network of peers, opportunities for collaboration, and the chance to contribute to cutting-edge projects. Take the first step towards joining us by reaching out or contributing to a project today.
 
 ## Contact
-Have questions or want to discuss potential collaborations? Reach out to us through email@pecollective.com. Follow us on X @pe_collective to stay updated on our latest projects and community events.
+Have questions or want to discuss potential collaborations? Reach out to us through email@pecollective.com. Follow us on X [@pe_collective](https://twitter.com/pe_collective) to stay updated on our latest projects and community events.
